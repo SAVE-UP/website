@@ -1,0 +1,145 @@
+################################# Default configuration ###################
+baseURL = "https://examplesite.com"
+title = "SAVEUP Technologies |  Innovation - Simplicity - Scalability. Digitalize  our world Motto: Smart Impact"
+theme = "toom"
+# post pagination
+paginate = "6"
+# post excerpt
+summaryLength = "15"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+# disable language
+disableLanguages = []
+
+############################# Plugins ##########################
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
+
+# js plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+link = "plugins/lazy-load/lozad.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
+
+############################# Navigation ##################################
+[[menu.main]]
+name = "about"
+URL = "about"
+weight = 1
+
+[[menu.main]]
+name = "services"
+URL = "services"
+weight = 2
+
+[[menu.main]]
+name = "portfolio"
+URL = "portfolio"
+weight = 3
+
+[[menu.main]]
+name = "team"
+URL = "team"
+weight = 4
+
+[[menu.main]]
+name = "pricing"
+URL = "pricing"
+weight = 5
+
+[[menu.main]]
+name = "blog"
+URL = "blog"
+weight = 6
+
+[[menu.main]]
+name = "contact"
+URL = "contact"
+weight = 7
+
+#### external / static link ####
+[[menu.static]]
+name = "Lab"
+URL = "https://www.google.com"
+weight = 8
+
+############################# Default Parameters ##########################
+[params]
+logo = "images/logo.png"
+# Meta data
+description = "SAVEUP Technologies helps Businesses, social impact organisations to scale up their impact and their revenue by have personal, guided conversation that improve lives at scale "
+author = "Michael KAMM"
+# Google Analytics
+google_analytics_id = "UA-143823996-1" # Your ID
+# post share
+post_share = true
+
+# preloader
+[params.preloader]
+enable = true
+preloader = "images/logo.png"
+
+# google map
+[params.map]
+enable = true
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCHwbB4wxGayn5ry3RwQ1GRHXxz_Ed3Gwo"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+
+############################# social icons ##########################
+[[params.social]]
+icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.facebook.com/SaveUpOfficial"
+
+[[params.social]]
+icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+link = "https://twitter.com/SaveUpOffical"
+
+[[params.social]]
+icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.youtube.com/channel/UCvgqzzJzTUfrmOlVA5q2VjQ/"
+
+[[params.social]]
+icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.linkedin.com/company/saveup-technologies"
+
+
+
+################################ France Language ########################
+[Languages.fr]
+languageName = "Fr"
+languageCode = "fr-fr"
+contentDir = "content/french"
+weight = 1
+home = "Accueil"
+copyright = "© 2020 Tout Droit Réservé SAVEUP Technologies"
+
+
+################################ English Language ########################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 2
+home = "Home"
+copyright = "© 2020 All Rigth Reserved SAVEUP Technologies"
