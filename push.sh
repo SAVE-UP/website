@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 
 # abort on errors
-set -e
+#set -e
 
 
 # if you are deploying to a custom domain
