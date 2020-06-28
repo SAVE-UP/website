@@ -1,0 +1,4 @@
+404:
+  enable : true
+  title : Error404
+  image_webp: images/404.webp

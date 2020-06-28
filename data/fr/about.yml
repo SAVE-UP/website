@@ -3,14 +3,14 @@ about:
   enable : true
   title : About Us
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
+    title : Nous sommes Agile
+    content : L'objectif de notre approche agile est de créer un modèle de stratégie numérique flexible. Dans un processus continu, les paramètres essentiels sont adaptés aux résultats des mesures précédentes.
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Nous sommes Réactif
+    content : Notre approche réactive nous pousse à toujours être sensible au changement qui interviennent et à prendre les mesures éssentiels afin de s'adapter constament à un monde en changement.
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-direction # themify icon pack : https://themify.me/themify-icons
+    title : Et Professionel
+    content : Nous pensons que la digitalization doit être compréhensible, productive et professionel. C'est pour quoi nous prenons à coeur cette valeur qui est essentiel a la réusite de tout projet.

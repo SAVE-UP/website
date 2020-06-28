@@ -3,24 +3,31 @@ skill:
   enable : true
   title : Our Skills
   subtitle : We’ve skilled in wide range of web and Other digital market tools.
-  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+  content : We have years of experience in the digital transformation of business and organization, and we focus on specific areas to achieve the best results.
   image : images/about/company-growth.webp
   skill_item :
     # skill item loop
-    - name :  Business Development
-      percent : 90%
+    - name :  Web Development
+      percent : 93%
       
     # skill item loop
-    - name :  Analysis
-      percent : 70%
+    - name :  Analysis & SEO
+      percent : 84%
       
     # skill item loop
-    - name :  Design
+    - name :  Design & Branding
       percent : 80%
       
-    - name :  IOS Development
+    - name :  IOS & Android Development
       percent : 95%
       
     # skill item loop
-    - name :  Android Development
+    - name :   Blockchain & AI
+      percent : 70%
+      
+    # skill item loop
+    - name :   PWA & Headless App
       percent : 75%
+      
+    - name :   Database Management
+      percent : 95%

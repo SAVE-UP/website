@@ -4,9 +4,9 @@ banner:
   bg_image_webp : "images/backgrounds/business.webp"
   bg_image : "images/backgrounds/business.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
-  title : "Experience the new reality"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+  title : "Economiser et Maximiser votre Temps"
+  content : "Gérer plus de clients en moins de temps, Fidélisez-les simplement en gardant le contact avec eux n'a jamais été si simple."
   button:
     enable : true
-    label : "Explore Us"
+    label : "Démarer"
     link : "#services"

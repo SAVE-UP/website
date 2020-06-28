@@ -1,5 +1,5 @@
 - id: blogTitle
-  translation: Dernier message
+  translation: Derniers Articles
 - id: readMore
   translation: Lire la suite
 - id: viewAllPost
@@ -28,3 +28,5 @@
   translation: Contact
 - id: themefisher
   translation: Themefisher
+- id: skilltitle
+  translation: Nos Compétences

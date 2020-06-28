@@ -1,14 +1,14 @@
 ---
-title: "John Doe"
+title: "Michael KAMM"
 image: ""
-email: "email2@example.org"
+email: "mawuenamichelk@gmail.com"
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
+    link : "https://www.facebook.com/akakpo.michel"
   - icon : "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
+    link : "https://twitter.com/GnOtaku"
   - icon : "ti-github" # themify icon pack : https://themify.me/themify-icons
-    link : "#"
+    link : "https://github.com/mawuen"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.

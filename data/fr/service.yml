@@ -1,34 +1,34 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Our Services
+  title : Nos Services
   service_item :
     # service item loop
-    - name : WordPress Theme
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Development Web
+      icon : ti-html5 # themify icon pack : https://themify.me/themify-icons
+      content : Nous livrons des résultats personnalisés en utilisant les piles dernières technologies.
+    
+    # service item loop
+    - name : Development Mobile
+      icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      content : Mettez le mobile au coeur de votre stratégie. Android & IOS n'a aucun secret pour nous.
       
     # service item loop
-    - name : Responsive Design
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Communication Digital
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : Nous concevons et développons des mesures ciblées pour votre entreprise.
       
     # service item loop
-    - name : Media &amp; Advertisement
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Media &amp; Publicité
+      icon : ti-video-clapper # themify icon pack : https://themify.me/themify-icons
+      content : Vos campagnes numériques omnicanal mesurable pour augmenter l'engagement, la conversion, le trafic ou les ventes.
       
     # service item loop
     - name : Graphic Design
       icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Nous Concevons des design d'une grande convivialité grâce à l'analyse des données et du contenu.
       
     # service item loop
-    - name : Apps Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Networking
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Securité
+      icon : ti-shield # themify icon pack : https://themify.me/themify-icons
+      content : La sécurité numérique est éssentielle que ce soit pour des entreprises ou des organisations. Mettez-vous a jour.

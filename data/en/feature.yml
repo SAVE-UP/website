@@ -1,27 +1,27 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
-  feature_item : 
+  image : images/about/landing-hero2.jpg
+  image_webp : images/about/landing-hero2.webp
+  title : We’re a Proactive Digital Design Agency.
+  content : "Our team of creatives, marketers, designers and developers will assist you in the digital transformation, redefinition and development of your business."
+  feature_item :
       # feature item loop
-    - title : SEO Optimized
+    - title : Digital Design
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Web and mobile application, UX / UI, Electronic commerce
       
       # feature item loop
-    - title : Easy Customization
+    - title : Digital Strategy
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Campaigns, Growth Hacking, Loyalty and User Journey
 
       # feature item loop
-    - title : SEO Optimized
+    - title : Digital Marketing
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : SEO, Content, Adsense, Social Media and Analytics
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Security
+      icon : ti-lock # themify icon pack : https://themify.me/themify-icons
+      content : Training, Debugging, Advice and Strategies
