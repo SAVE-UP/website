@@ -6,35 +6,35 @@ testimonial:
   testimonial_item :
     # testimonial item loop
     - name : Arsene JOHNSON
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
+      image : images/client/1.png
+      image_webp : images/client/1.webp
       date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex.
       
     # testimonial item loop
     - name : Aubin DADOUE
-      image : images/client/client-2.jpg
-      image_webp : images/client/client-2.webp
+      image : images/client/19.png
+      image_webp : images/client/19.webp
       date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex.
       
     # testimonial item loop
     - name : Edwin AGBOLETE
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
+      image : images/client/16.png
+      image_webp : images/client/16.webp
       date : Dec 26, 2018
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex.
     
     # testimonial item loop
     - name : Rajan Kumar Singh
-      image : images/client/client-1.jpg
-      image_webp : images/client/client-1.webp
+      image : images/client/14.png
+      image_webp : images/client/14.webp
       date : Dec 26, 2020
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex.
     
     # testimonial item loop
     - name : Asante Wiafe
-      image : images/client/client-2.jpg
-      image_webp : images/client/client-1.webp
+      image : images/client/15.png
+      image_webp : images/client/15.webp
       date : Dec 26, 2020
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex.

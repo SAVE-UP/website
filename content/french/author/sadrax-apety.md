@@ -1,7 +1,7 @@
 ---
 title: "Sadrax APETY"
 image: ""
-email: "email1@example.org"
+email: "email5@example.org"
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
     link : "#"

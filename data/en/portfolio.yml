@@ -3,74 +3,98 @@ portfolio:
   enable : true
   title : Our Works
   portfolio_item :
-    # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-1.jpg
-      image_webp : images/portfolio/portfolio-1.webp
-      categories : ["design"]
+     # portfolio item loop
+    - name : Beluga
+      image : images/portfolio/4.png
+      image_webp : images/portfolio/4.webp
+      categories : ["development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "https://themefisher.com"
+      link : "https://beluga.tg"
       
     # portfolio item loop
-    - name : Sound system
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
+    - name : Fiscca-rh
+      image : images/portfolio/2.png
+      image_webp : images/portfolio/2.webp
       categories : ["development"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "https://www.fiscca-rh.com"
+      
+    # portfolio item loop
+    - name : LATIWO Energy
+      image : images/portfolio/6.png
+      image_webp : images/portfolio/6.webp
+      categories : ["Communication", "development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : ""
       
     # portfolio item loop
-    - name : Clock Product
-      image : images/portfolio/portfolio-3.jpg
-      image_webp : images/portfolio/portfolio-3.webp
-      categories : ["design", "development"]
+    - name : COGECO .SA
+      image : images/portfolio/3.png
+      image_webp : images/portfolio/3.webp
+      categories : ["Graphic Design", "development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+      link : "https://cogeco.tg"
       
     # portfolio item loop
-    - name : Bottol Label
-      image : images/portfolio/portfolio-4.jpg
-      image_webp : images/portfolio/portfolio-4.webp
-      categories : ["photography", "development"]
+    - name : TOGO CHAMPION QUIZ
+      image : images/portfolio/9.png
+      image_webp : images/portfolio/9.webp
+      categories : ["Communication"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+      link : "http://togochampionsquiz.com/"
       
     # portfolio item loop
-    - name : Shopping Bag
-      image : images/portfolio/portfolio-5.jpg
-      image_webp : images/portfolio/portfolio-5.webp
-      categories : ["design"]
+    - name : Amnisty International Togo
+      image : images/portfolio/10.png
+      image_webp : images/portfolio/10.webp
+      categories : ["Graphic Design", "development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+      link : "http://www.amnesty.tg/"
       
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-6.jpg
-      image_webp : images/portfolio/portfolio-6.webp
-      categories : ["photography"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-      
-    # portfolio item loop
-    - name : Business Card
-      image : images/portfolio/portfolio-7.jpg
-      image_webp : images/portfolio/portfolio-7.webp
+    - name : PES TOGO
+      image : images/portfolio/7.png
+      image_webp : images/portfolio/7.webp
       categories : ["development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+      link : "http://pestogo.com/"
       
     # portfolio item loop
-    - name : Stationary Design
-      image : images/portfolio/portfolio-8.jpg
-      image_webp : images/portfolio/portfolio-8.webp
-      categories : ["design", "development"]
+    - name : E-NOVA Digital
+      image : images/portfolio/8.png
+      image_webp : images/portfolio/8.webp
+      categories : ["Communication", "development"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
       link : "#"
       
     # portfolio item loop
-    - name : Tag Design
-      image : images/portfolio/portfolio-2.jpg
-      image_webp : images/portfolio/portfolio-2.webp
-      categories : ["design", "photography"]
+    - name : Androcel Sarl
+      image : images/portfolio/5.webp
+      image_webp : images/portfolio/5.webp
+      categories : ["Communication", "Graphic Design"]
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
+      link : "https://androcel.com"
+      
+    # portfolio item loop
+    - name : Vision Futur Togo
+      image : images/portfolio/11.png
+      image_webp : images/portfolio/11.webp
+      categories : ["development"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "https://vf-togo.org"
+      
+      # portfolio item loop
+    - name : Bulle Bleu
+      image : images/portfolio/12.png
+      image_webp : images/portfolio/12.webp
+      categories : ["development"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "https://www.bulle-bleue.org/"
+      
+      # portfolio item loop
+    - name : KALK3D
+      image : images/portfolio/13.png
+      image_webp : images/portfolio/13.webp
+      categories : ["development"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "https://www.kalk3d.com/"

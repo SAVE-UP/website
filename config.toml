@@ -62,25 +62,20 @@ URL = "team"
 weight = 4
 
 [[menu.main]]
-name = "pricing"
-URL = "pricing"
-weight = 5
-
-[[menu.main]]
 name = "blog"
 URL = "blog"
-weight = 6
+weight = 5
 
 [[menu.main]]
 name = "contact"
 URL = "contact"
-weight = 7
+weight = 6
 
 #### external / static link ####
 [[menu.static]]
 name = "Lab"
 URL = "https://www.google.com"
-weight = 8
+weight = 7
 
 ############################# Default Parameters ##########################
 [params]
@@ -102,8 +97,8 @@ preloader = "images/805.gif"
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCHwbB4wxGayn5ry3RwQ1GRHXxz_Ed3Gwo"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "6.1278001"
+map_longitude = "1.2090378"
 map_marker = "images/marker.png"
 
 ############################# social icons ##########################
@@ -125,21 +120,21 @@ link = "https://www.linkedin.com/company/saveup-technologies"
 
 
 
-################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 1
-home = "Accueil"
-copyright = "© 2020 Tout Droit Réservé SAVEUP Technologies"
-
-
 ################################ English Language ########################
 [Languages.en]
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 2
+weight = 1
 home = "Home"
 copyright = "© 2020 All Rigth Reserved SAVEUP Technologies"
+
+
+################################ France Language ########################
+[Languages.fr]
+languageName = "Fr"
+languageCode = "fr-fr"
+contentDir = "content/french"
+weight = 2
+home = "Accueil"
+copyright = "© 2020 Tout Droit Réservé SAVEUP Technologies"
