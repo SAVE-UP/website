@@ -97,9 +97,9 @@ preloader = "images/805.gif"
 [params.map]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCHwbB4wxGayn5ry3RwQ1GRHXxz_Ed3Gwo"
-map_latitude = "6.1278001"
-map_longitude = "1.2090378"
-map_marker = "images/marker.png"
+map_latitude = "6.1714237"
+map_longitude = "1.1967678"
+map_marker = "images/pin.png"
 
 ############################# social icons ##########################
 [[params.social]]

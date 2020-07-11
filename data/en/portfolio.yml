@@ -1,7 +1,7 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Our Works
+  title : Our Customers
   portfolio_item :
      # portfolio item loop
     - name : Beluga

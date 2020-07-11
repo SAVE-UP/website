@@ -9,7 +9,7 @@
 
 #git init
 git add -A
-git commit -m 'Update add new articles'
+git commit -m 'Update contact section and translation'
 
 # if you are deploying to https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
