@@ -9,7 +9,7 @@
 
 #git init
 git add -A
-git commit -m 'Update contact section and translation'
+git commit -m 'Adding .gitignore'
 
 # if you are deploying to https://<USERNAME>.github.io
 # git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
